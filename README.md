@@ -507,6 +507,342 @@ For a project like producing a new show for a television company, on the other h
 
 ---
 
-Overview of Waterfall and Agile
+### Overview of Waterfall and Agile - Video Notes
+
+**Waterfall** as a methodology was created in the 70s, and refers to the sequential ordering of phases. Waterfall has a linear approach.
+
+***When would you want to use a Waterfall approach to project management?*** 
+
+**A:** Well, when the phases of the project are clearly defined or when there are tasks to complete before another can begin, or when changes to the project are very expensive to implement once it's started.
+
+The Waterfall method has some risk management practices to help avoid and deal with project changes.
+
+The term **agile** means being able to move quickly and easily. It also refers to flexibility, which means being willing and able to change and adapt. Projects that use an Agile approach often have many tasks being worked on at the same time, or in various stages of completion which makes it an iterative approach.
+
+Agile project phases overlap and tasks are completed in iterations, which in Scrum, are called sprints.
+
+***Example of Agile*** 
+Projects that are best suited for an Agile approach are those where the client has an idea of what they want but doesn't have a concrete picture in mind, or they have a set of qualities they'd like to see in the end result, but aren't as concerned with exactly what it looks like.
+
+---
+
+### Introduction to Lean and Six Sigma - video notes
+
+**Lean Six Sigma** - It's a combination of two parent methodologies, Lean and Six Sigma. The uses for Lean Six Sigma are common in projects that have goals to save money, improve quality, and move through processes quickly. It also focuses on team collaboration which promotes a positive work environment.
+
+There are 5 phases in the Lean Six Sigma approach
+
+- define 
+- measure 
+- analyze 
+- improve
+- control
+
+commonly known as **DMAIC**. 
+
+**DMAIC** is a strategy for process improvement, meaning you're trying to figure out where the problems are in the current process and fix them so that everything runs more smoothly. 
+
+Remember DMAIC like this, 
+- **defining** tells you what to measure 
+- **measuring** tells you what to analyze 
+- **analyzing** tells you what to improve 
+- **improving** tells you what to control
+
+Lean Six Sigma and the DMAIC approach are ideal when the project goal includes improving the current process to fix complex or high risk problems like improving sales, conversions, or eliminating a bottleneck, which is when things get backed up during a process.
+
+---
+
+### Common project management approaches and how to select one
+
+**Popular project management approaches**
+
+Below is a brief recap of some of the project management approaches you’ve been introduced to so far:
+
+**Waterfall** is a traditional methodology in which tasks and phases are completed in a linear, sequential manner, and each stage of the project must be completed before the next begins. The project manager is responsible for prioritizing and assigning tasks to team members. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
+
+**Agile** involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. Some phases and tasks happen at the same time as others. In Agile projects, teams share responsibility for managing their own work. Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
+
+**Scrum** is an Agile framework that focuses on developing, delivering, and sustaining complex projects and products through collaboration, accountability, and an iterative process. Work is completed by small, cross-functional teams led by a Scrum Master and is divided into short Sprints with a set list of deliverables.
+
+**Kanban** is both an Agile approach and a tool that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts. With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
+
+**Lean** uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. Lean implements a Kanban scheduling system to manage production.
+
+**Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
+
+**Lean Six Sigma** is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S quality tool, the DMAIC process, and the use of Kanban boards are all components of this approach. 
+
+Despite their differences, all of these project management methodologies require communication and collaboration among various teams and aim to deliver projects on time and within budget. 
+
+---
+
+### video notes
+
+**Organizational structure** refers to the way a company or organization is arranged or structured. This structure also tells you how job tasks are divided and coordinated and how all the different members of the organization relate to one another. In other words, organizational structure gives you a sense of who reports to who. 
+
+organizational hierarchies that you may encounter at work. An organization's structure is most commonly mapped out using a **reporting chart or "org chart,"** which is short for "organizational chart." Reporting charts show the relationship between people and groups within the organization, and details who each person or group reports to.
+
+The **Classic grouping** includes what are usually called "functional" or "top-down" structures. 
+
+**Matrix structure** has direct higher-ups to report to and stakeholders from other departments or programs. 
+
+Matrix structures involve team members reporting to functional and project managers simultaneously. In a Classic organization, project managers are part of a top-down hierarchy. Frequent reporting of project status updates may be required to pass up through management levels to keep higher leaders informed.
+
+#### Interview Tip!!!
+
+During an interview, ***you can ask about the type of organizational structure the company uses and where your role will fit in***. This will help you and the interviewer communicate clearly about the people you will engage with daily, and the expectations for the role.
+
+---
+
+### How organizational structure impacts project management - video notes
+
+One way organizational structure can impact the way you manage a project is by the amount of **authority** given to the project manager. 
+
+Another way organizational structures can impact project management is through **resource availability**. Managing a project is a lot easier when you know how to access the people, equipment, and budget that you need. 
+
+The main difference with a **Matrix structure** is that employees often have two or more managers or leaders they'll need to work with and update. Your team members will have their functional manager and you, the project manager. If members are working on multiple projects, they may have even more managers.
+
+---
+
+### Lan: Working in a Project Management Office - video notes
+
+ A **Project Management Office** is a team of project managers. We are a group that coordinates all of the different parts of a project together, including folks who work on our product, engineers, and many business functions, and we help bring all of those ideas to life.
+
+ PMOs invest in and provide templates, tools, and software to help manage projects and help maintain their organization’s project history. 
+
+ PMOs share lessons learned from previous successful projects and provide guidance about processes, tools, and metrics to ensure consistency.
+
+ PMOs define project criteria, select projects according to the organization’s business goals, and provide a business case for those projects to management.
+
+ ---
+
+ ### Introduction to organizational culture video notes
+
+** Organizational culture** is in part the values employees share, as well as the organization's values, mission, history, and so on. In other words, organizational culture can be thought of as the company's personality. Understanding an organization's culture will help you navigate your team more effectively toward achieving the project's goal. It also impacts the way you plan your project.
+
+#### Interview Tip 2!!!
+
+ If you are interviewing for a project management position, asking about the culture is a great way to get more information about the company. It also shows the interviewer that you're knowledgeable about the impact culture can have on a project. 
+
+ To help you gain a better sense of an organization's culture, consider the following questions. 
+ 
+ - ***How do people prefer to communicate?*** Is it primarily through scheduled meetings, via email, over the phone? 
+ - ***How are decisions made?***
+majority vote or top down approvals? 
+- ***What kinds of rituals are in place when someone new comes to the office?*** Are they taken out to lunch, given a tour of the building or introduced to the staff? 
+- ***How are projects typically run?*** Do they prefer a Classic, do they prefer Matrix, or some other style of project management? And finally,
+- ***what kinds of practices, behaviors, and values are reflected by the people in the organization?*** Is overtime or weekend work an expectation? Are there company sanctioned social events? Finding out what the company values, will tell you a lot about the culture.
+
+Finding out what the company values, will tell you a lot about the culture. And how to handle **communication, manage expectations, and identify potential conflicts** as you work through your project. 
+
+#### Navigating Culture
+
+- **make sure to ask questions**. 
+As you observe the culture, try asking your peers what they think is going well and what they would change. Your peers may have the same opinion as you, and if not you may learn something new you didn't learn in the interview process. Either way, you'll be in a better place to assess risk, adjust your current project, or be more prepared for projects in the future. 
+- **It's also a good idea to make observations.** It's important to understand how things work, and what people like and respect about the company's culture. When working in different geographies, it's also important to be aware of established customs, like bowing, shaking hands, or wearing head coverings. This will help you gain understanding and form respectful relationships. Lastly, 
+- **it's important to understand your impact.** 
+
+A **change agent** is someone who helps the organization transform by focusing on improving organizational effectiveness and development. You and your project will most likely affect the organization in some way. 
+
+---
+
+### Learning about an organization’s culture
+
+It is important to learn about the culture of the organization where you work or want to work. Understanding the company’s culture can help you navigate your team through a project. Consider this quote from Peter Drucker, an expert on management: ”Culture eats strategy for breakfast.” Drucker is implying that the culture of a company always influences its success, regardless of how effective the company’s business model may be. Organizational culture is critical to the health of a company, the people who work there, and the customers it serves.
+
+##### The importance of organizational culture 
+
+**Identity:** An organization’s culture defines its identity. Its identity essentially describes the way the company conducts  business, both internally and externally. A company’s values and organizational culture go hand-in-hand; its values are part of its identity. You can almost think of an organization’s culture as its personality. That is why it is important to learn your company’s (or target company’s) mission and value statements. The mission and value statements will help you understand why the company exists and will give you insight into what the company believes in and how it will behave. 
+
+**People:** Strong, positive organizational culture helps retain a company’s best employees. People who feel valued, engaged, and challenged are more likely to give their best and want to drive for success. An organization’s culture can help keep talented employees at a company, and it can attract great people too! On the other hand, a toxic culture can have the opposite effect. It is important to find an organization with a culture that fits your personality. One way to find out more about an organization's culture is to talk to the people who work there. You can also take note of the current employees’ attire, expressions, and overall behavior.
+
+**Processes:** Organizational culture can have direct impacts on a company's processes, and ultimately, its productivity. The organization’s culture is instilled throughout the company—from its employees to how its employees do their job. For example, a company that values feedback and employee involvement might have that reflected in their processes by including many opportunities for employees to comment. By allowing employees to feel their voices are heard, this company is adhering to its culture. 
+
+##### Understanding an organization’s culture
+
+As a project manager, it is important to understand your company’s culture, especially because it could affect the projects you work on. Some aspects of an organization’s culture that are directly related to how you will manage projects are communication, decision-making, rituals, previous management styles, and values. To learn more about a company’s culture and how it applies to you as a project manager, you can: 
+
+##### Ask questions
+
+You can learn about an organization's culture by asking questions of management and peers. It can be helpful to ask these questions in the interview phase to better understand the company’s culture before accepting a position. You might want to ask questions about:
+
+##### Atmosphere
+
+- What is the company’s dress code? 
+
+- How do people typically share credit at this company? 
+
+- Is risk-taking encouraged, and what happens when people fail?
+
+- How do managers support and motivate their team?
+
+- How do people in this role interact with customers and users?
+
+- When and how do team members give feedback to one another?
+
+- What are some workplace traditions?
+
+- What are some of the ways the company celebrates success?
+
+##### Policies
+
+- What are the policies around sick days and vacation?
+
+- Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
+
+- What policies are in place that support employees sharing their identity in the workplace?
+
+##### Processes
+- What is the company’s onboarding process?
+
+- How do employees measure the impact of their work?
+
+##### Values
+- What are the company’s mission and value statements?
+
+- How might the person in this role contribute to the organization’s mission?
+
+- How does the organization support professional development and career growth?
+
+##### Listen to people’s stories
+- Listening to what current employees have to say and how they portray the company will give you great insight.
+
+- What were employees' experiences with similar projects in the past? 
+
+- What can they tell you about key stakeholders and customers? 
+
+##### Take note of company rituals
+
+Rituals can be powerful drivers of culture. They engage people and help instill a sense of shared purpose and experience. 
+
+- How are birthdays and holidays celebrated? 
+
+- Do employees generally eat lunch at the same time and in the same place? 
+
+- Watch employee interactions: Observing how employees interact can help you tailor your interaction style to the company norm. 
+
+- Are employee interactions more formal or informal in nature? 
+
+- Are ideas solicited from employees in different roles? 
+
+##### Understand your impact
+
+As a project manager, you become a change agent. Remember: a change agent is a person from inside an organization who helps the organization transform by focusing on improving organizational effectiveness and development. When you begin a new role, sit down with management to better understand what is expected of you and how you can make the most of the opportunity.
+
+##### Sharpen your communication skills
+
+Interpersonal communication skills are a major part of project management. How a company communicates is directly tied to its organizational culture. You will most likely have interactions with various departments and management levels while executing projects. To communicate effectively, you will need to understand how to navigate the different channels in your company. Ask questions about communication practices when you start a new role such as: Is it customary to sign emails from the team rather than from you individually? Should presentations include team members or be solely presented by the project manager? This can help you make sure you are adhering to expectations.
+
+Approaching projects differently from how similar projects were managed in the past may be met with some resistance. Although some projects may call for you to break the status quo, when you show an appreciation of your organization’s culture, you may help your team members accept any improvements you are implementing.
+
+---
+
+### Introduction to change management video notes
+
+
+What is **change management**?
+
+Change management is the process of delivering a completed project and getting people to adopt it. When project managers understand change management, and their role in the process, it helps to ensure a smooth roll out and easier adoption.
+
+##### Core concepts 
+
+- **creating a sense of ownership and urgency** around the project. Ownership means getting others to feel they are empowered to take responsibility for the successful completion of their tasks. Urgency means getting them to understand that the project is important and to identify what actions need to be taken to move the project along. When team members feel a sense of ownership and urgency around a project, it increases interest, motivation, and engagement with the project outcome. 
+
+- **figure out the right combination of skills** and personalities when selecting the people who will work on your team. Find people whose knowledge and skills complement one another. If your team is selected for you, see if you're able to choose who gets assigned which tasks. If that's not possible, then it's extra important for you to find ways to connect with your team. This will get them excited about the project so then they can be advocates for change when it's needed. 
+
+- **Effective communication** One effective way of motivating your team is to communicate clearly your vision and approach for the project. Then you can share how you see everyone working together as a team to make it happen. Communicating this idea clearly allows others to share in your vision and take ownership in bringing it to life. The final core concept is the ever important one, effective communication. And I can't stress this enough: communication is key. Having effective communication with your team means being transparent and up front with your plans and ideas and making information available. Make sure your team, along with the rest of the organization, is kept up-to-date on your progress.
+
+---
+
+### Corporate and project governance
+
+**Governance** in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge. In this reading, we will discuss corporate governance and project governance. It is important to learn how corporate and project governance are related since you may have to speak about governance in an interview. Additionally, you will need to understand how your project relates to the governance structure of the organization.
+
+##### Corporate governance
+
+Each organization is governed by its own set of standards and practices that direct and control its actions. Those standards and practices are called corporate governance, and they will influence your projects. Corporate governance is the framework by which an organization achieves its goals and objectives. Corporate governance is also a way to balance the requirements of the various corporate entities, such as stakeholders, management, and customers. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
+
+Governance and change management go hand-in-hand. Think back to the previous videos on change management. To successfully implement change management, it is essential that you understand the structure and culture of the organization. Effective governance in change management provides clearly defined roles and responsibilities during change. This enables the people within the organization to have a precise understanding of who makes decisions and of the relationship between those managing and participating in the change management process. 
+
+Another example of governance within an organization is the creation and use of steering committees. Steering committees decide on the priorities of an organization and manage the general course of its operations. The steering committee essentially acts as an advisory board or council to help the project manager and the company make and approve strategic decisions that affect both the company and the project. 
+
+##### Project governance
+
+As a project manager, you will be responsible for project governance. Project governance is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. Project governance involves all the key elements that make a project successful. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
+
+##### How project and corporate governance intersect
+Project governance needs to be tailored to your organization's specific needs. These needs will influence how you implement and monitor the governance framework on your project. Project governance concerns those areas of corporate governance that are specifically related to project activities. Effective project governance ensures that an organization’s projects are aligned to the organization’s larger objectives, are delivered efficiently, and are sustainable. This includes:
+
+- Considering the long- and short-term interests of your organization
+
+- Making thoughtful decisions about which projects to take on and avoiding projects if you do not have sufficient resources
+
+- Providing timely, relevant, and reliable information to the board of directors and other major stakeholders 
+
+- Eliciting the input and buy-in of senior managers since they are the decision-makers 
+
+- During the initiation phase, prioritizing clear, reachable, and sustainable goals in order to reduce confusion and conflict
+
+- During the planning phase, assigning ownership and accountability to an experienced team to deliver, monitor, and control the process 
+
+- During the execution phase, learning from mistakes and adapting to new or improved knowledge
+
+Corporate governance can involve clearing many hurdles before making decisions. These decisions can influence not only a single project, but the entire corporation. 
+
+At the same time, corporate governance can help support project governance, as it provides oversight on compliance and mitigating risk and offers guidance and direction for project managers. Good corporate governance can also help project managers secure resources, get issues addressed, avoid delays in decision-making, get buy-in from stakeholders, and achieve visibility for projects on the executive level.
+
+---
+
+### 
+
+***Which three best practices can help a project manager approach change management on their projects?***
+
+**A:** Incorporating tools like flowcharts, feedback mechanisms, and culture mapping to assist in the adoption of a change can be very helpful.
+
+**A:** Incorporating tools like flowcharts, feedback mechanisms, and culture mapping to assist in the adoption of a change can be very helpful.
+
+**A:** Changes are inevitable, but people are often resistant to them. A project manager can support the process by being empathetic to the challenges and anxiety change can bring. 
+
+
+***What are three core concepts of the change management process?***
+
+**A:** When team members feel a sense of ownership and urgency around a project, it increases interest, motivation, and engagement with the project outcome.
+
+**A:** A project manager should find team members whose knowledge and skills complement one another and get them excited about the project. They can be advocates for change when it's needed. 
+
+**A:** To ensure effective communication with the team and the rest of the organization, the project manager can do three things. First, they can be transparent and up front with plans. Second, they can make information available. Third, they can make sure everyone is kept up-to-date on the project’s progress.
+
+***Which of the following project outcomes will most likely require change management in the organization? Select all that apply.***
+
+**A:** Installing new software means that employees will need to adapt to how the software operates. Change management strategies would help support the transition to this new tool.
+
+**A:** Switching to a new system means that employees will need to learn new processes and protocols. Change management strategies would help support the transition to these new processes.
+
+***How does an organization align its project governance with its corporate governance? Select all that apply.***
+
+**A:** An organization should carefully select projects and avoid projects if there are insufficient resources to make them sustainable. Good project governance also includes clear communication with stakeholders and consideration of the long-term and short-term interests of the organization.
+
+**A:** Leaders and stakeholders are more likely to support the project if it aligns with the overall interests and objectives of the organization. Good project governance also includes making thoughtful decisions about what projects to start and clear communication with stakeholders.
+
+**A:** Good project governance supports corporate governance with clear communication and attainable goals. It also involves making thoughtful decisions about what projects to take on and consideration of the long-term and short-term interests of the organization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
